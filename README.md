@@ -14,4 +14,4 @@ Pasos:
 
 ## Mostramos el resultado del laboratorio por consola.
 
-![Mostrar por consola](/assets/mostrar_por_consola.png)
+![Mostrar por consola](/assets/show_on_screen.png)
